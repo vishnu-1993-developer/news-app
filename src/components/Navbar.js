@@ -30,6 +30,10 @@ export class Navbar extends Component {
                             <li><a className="dropdown-item" href="/">Science</a></li>
                             <li><a className="dropdown-item" href="/">Sports</a></li>
                             <li><a className="dropdown-item" href="/">Technology</a></li>
+                            <li><a className="dropdown-item" href="/">Food</a></li>
+                            <li><a className="dropdown-item" href="/">Politics</a></li>
+                            <li><a className="dropdown-item" href="/">Top</a></li>
+                            <li><a className="dropdown-item" href="/">World</a></li>
                         </ul>
                         </li>
                         <li className="nav-item">
